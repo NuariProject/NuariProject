@@ -1,30 +1,23 @@
-👋 Hello there! I'm Farhannuari Bani Romadhan, but you can call me Nuari.
+# Profil Saya
 
-🚀 My career journey kick-started as a developer back in 2019.
+👋 Halo! Saya Farhannuari Bani Romadhan, tetapi Anda bisa memanggil saya Nuari.
 
-📚 It all began with my involvement in the "Technical .Net Fullstack Developer" bootcamp during that year. Since then, my passion as a full-stack developer has continued to grow, propelling me to keep evolving my career in the realm of development.
+🚀 Perjalanan karir saya dimulai sebagai seorang pengembang pada tahun 2019.
 
-🛠️ Along this development journey, I've delved into a spectrum of technologies, including:
+...
 
-- Framework .Net
-- .NET Core
-- C# programming language
-- VB.net
-- SQL database management
-- IIS web server configuration
-- HTML markup language, CSS aesthetics, and JavaScript brilliance
-- Version control with GIT
-- Application of MVC architecture
-- Development of REST APIs
-- Grasping the Monolith concept
-- Crafting N-tier architectures
-- Exploring Microservices
-- Immersing in Curl
+🔧 Bagi saya, setiap baris kode adalah sebuah kisah, dan saya selalu menikmati petualangan yang dihadirkannya setiap hari.
 
-🔧 To me, each line of code is a story, and I always relish the adventure it brings every day.
+🌱 Semangat belajar saya tetap selalu ada, siap untuk terus beradaptasi dengan perkembangan teknologi yang tak pernah berhenti.
 
-🌱 The zest for learning remains an ever-burning flame within me, ready to adapt to the relentless pace of technological evolution.
+📫 Jangan ragu untuk menghubungi saya melalui email di nuari.br@gmail.com
 
-📫 Feel free to get in touch with me via email at nuari.br@gmail.com.
+---
 
-Thank you for visiting my profile! I'm incredibly excited to collaborate and craft amazing solutions together. 🤝
+## Persentase Kode Berdasarkan Teknologi
+
+Berikut adalah grafik yang menunjukkan persentase kode dalam repository saya berdasarkan teknologi yang digunakan:
+
+![Persentase Kode Berdasarkan Teknologi](https://chart.googleapis.com/chart?chs=300x300&cht=p&chd=t:30,25,20,15,10&chl=Framework+.Net|Bahasa+C%23|SQL|HTML+CSS+JS|Lainnya)
+
+Terima kasih telah berkunjung ke profil saya! Saya sangat antusias untuk berkolaborasi dan menciptakan solusi-solusi menakjubkan bersama-sama. 🤝
