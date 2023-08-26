@@ -1,4 +1,4 @@
----
+
 👋 Hello there! I'm Farhannuari Bani Romadhan, but you can call me Nuari.
 
 🚀 My career journey kick-started as a developer back in 2019.
@@ -29,4 +29,3 @@
 📫 Feel free to get in touch with me via email at nuari.br@gmail.com.
 
 Thank you for visiting my profile! I'm incredibly excited to collaborate and craft amazing solutions together. 🤝
----
